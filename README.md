@@ -1,0 +1,2 @@
+# Data-Mining-Midterm-Project
+In this repository, I published the code that I used as midterm project of IZTECH's Computer Engineering Department. Firstly, I did some rearrangements on the data and cleansing at the same time for getting a sensible dataset to work with. After that, among various machine learning algorithms the most proper one has been choosed to work with by observing the performance of the model on validation data.
